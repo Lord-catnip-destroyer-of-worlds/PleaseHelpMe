@@ -1,0 +1,28 @@
+span{
+    font-size: 300px
+}
+span{
+    color: ghostwhite
+}
+span{
+    background-color: black
+}
+
+h1{
+    color: black
+}
+h1{
+    font-size: 40px
+}
+img{
+    height: 100px
+}
+img{
+    width: 1100px
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap>");
+
+h1 {
+  font-family: 'Metal Mania';
+}
